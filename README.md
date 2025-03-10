@@ -1,2 +1,2 @@
 # OhayouVTuberMaker
-おはようVTuberをつくるため
+おはようVTuberをつくるためのプロジェクト
