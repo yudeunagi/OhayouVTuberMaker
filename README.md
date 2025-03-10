@@ -1,0 +1,2 @@
+# OhayouVTuberMaker
+おはようVTuberをつくるため
